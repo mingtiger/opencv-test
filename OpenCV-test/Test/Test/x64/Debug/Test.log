@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\lenovo\desktop\opencv-test\test\test\main.cpp(44): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
-  Test.vcxproj -> C:\Users\lenovo\Desktop\OpenCV-test\Test\x64\Debug\Test.exe
