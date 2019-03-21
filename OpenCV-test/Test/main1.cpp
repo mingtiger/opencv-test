@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int artc, char** argv) {
 	// Mat src = imread("D:/vcprojects/images/test.png");
-	Mat src = imread("D:/vcprojects/images/test.png", IMREAD_GRAYSCALE);
+	Mat src = imread("F:/opencv_tutorial-master/images/test.png", IMREAD_GRAYSCALE);
 
 	if (src.empty()) {
 		printf("could not load image...\n");
