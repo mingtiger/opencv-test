@@ -19,7 +19,7 @@ int main(int artc, char** argv) {
 	Mat m2;
 	src.copyTo(m2);			//复制			区别 克隆与复制，克隆与原没有关系
 
-	// 赋值法
+	// 赋值法--取另一个名字
 	Mat m3 = src;
 
 	// 创建空白图像
